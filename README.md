@@ -78,7 +78,7 @@ The dashboard contains five pages:
 Click an image to open the full-size screenshot.
 
 ### Overview
-[![Overview](assets/dashboard/Overview.jpg)](assets/dashboard/Overview.jpg)
+[![Overview](Screenshot%202026-09-21%20205126.png)](Screenshot%202026-09-21%20205126.png)
 
 ### Attrition Drivers
 [![Attrition Drivers](assets/dashboard/Attrition%20Drivers.jpg)](assets/dashboard/Attrition%20Drivers.jpg)
