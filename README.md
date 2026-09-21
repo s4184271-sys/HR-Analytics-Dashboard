@@ -45,7 +45,7 @@ Documented these limitations rather than creating unsupported assumptions or art
 A large number of HR variables can easily make a dashboard difficult to interpret.
 
 **Solution:**  
-Organized the analysis into focused pages for **Overview, Attrition, Demographics, Compensation & Tenure, and Details**, allowing users to move from high-level KPIs to more detailed analysis.
+Organized the analysis into focused pages for **Overview, Attrition Drivers, Demographics, Compensation and Tenure, and Employee Details**, allowing users to move from high-level KPIs to more detailed analysis.
 
 ## Business Impact
 
@@ -75,13 +75,32 @@ The dashboard is designed to help HR and management:
 - Correlation analysis
 - IQR-based outlier analysis
 
+## Dashboard Preview
+
+Click any dashboard image to open the full-size page screenshot.
+
+### Overview
+[![Overview](Overview.jpg)](Overview.jpg)
+
+### Attrition Drivers
+[![Attrition Drivers](Attrition%20Drivers.jpg)](Attrition%20Drivers.jpg)
+
+### Demographics
+[![Demographics](Demographics.jpg)](Demographics.jpg)
+
+### Compensation and Tenure
+[![Compensation and Tenure](Compensation%20and%20Tenure.jpg)](Compensation%20and%20Tenure.jpg)
+
+### Employee Details
+[![Employee Details](Employee%20Details.jpg)](Employee%20Details.jpg)
+
 ## Dashboard Structure
 
 - **Overview** — overall workforce KPIs and HR trends
-- **Attrition** — detailed employee turnover analysis
+- **Attrition Drivers** — attrition patterns across job satisfaction, overtime, stock options, income, and other factors
 - **Demographics** — workforce composition and demographic patterns
-- **Compensation & Tenure** — income, tenure, performance, and training analysis
-- **Details** — detailed employee-level information
+- **Compensation and Tenure** — income, tenure, performance, promotion, and training analysis
+- **Employee Details** — detailed employee-level information
 
 ## Tools & Technologies
 
